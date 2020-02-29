@@ -4,7 +4,7 @@ This is our famous angular heroes project, though the default one uses in memory
 ## Architecture
 Simple Architecture, Where We have Angular Web Application invokes spring based micro-services deployed in OpenShift. HeroService is the actual server that does not have any routes published, instead goes via Gateway and Eureka.
 
-./architecture.png
+![Screenshot](architecture.png)
 
 ## Deployment
 High level step if you wanted to try:
