@@ -15,4 +15,4 @@ npm install
 ng build --prod
 copy to tomcat ROOT
 ```
-You all set to test
+You all set to test, Angular should pull the heros and show on the page.
