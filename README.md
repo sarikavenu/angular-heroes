@@ -13,6 +13,6 @@ Clone git repository
 edit OpenShift gateway URL in hero.service.ts file i.e. **heroesUrl** property
 npm install
 ng build --prod
-copy all the files from **dist** directory to tomcat ROOT or your web server root
+copy all the files from dist directory to tomcat ROOT or your web server root
 ```
 You all set to test, Angular should pull the heros and show on the page.
