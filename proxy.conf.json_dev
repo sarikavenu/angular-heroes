@@ -1,0 +1,11 @@
+{
+  "/api": {
+    "target": "http://gateway-microservices.apps.us-west-1.starter.openshift-online.com/heroservice/list",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {
+      "^/api": ""
+    }
+  }
+}
