@@ -6,6 +6,10 @@ Simple Architecture, Where We have Angular Web Application invokes spring based 
 
 ![Screenshot](architecture.png)
 
+OpenShift services snapshot for your quick reference.
+
+![Screenshot](OpenShiftDashboard.png)
+
 ## Deployment
 High level step if you wanted to try:
 ```
