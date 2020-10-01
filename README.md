@@ -11,7 +11,7 @@ OpenShift services snapshot for your quick reference.
 ![Screenshot](OpenShiftDashboard.png)
 
 ## Deployment
-High level step if you wanted to try:
+High level steps if you wanted to try:
 ```
 Clone git repository
 edit OpenShift gateway URL in hero.service.ts file i.e. **heroesUrl** property
